@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <event name="Christmas">
+        <item itemId="5556" itemCount="1" itemChance="20" minLvl="20"/>
+        <item itemId="5557" itemCount="1" itemChance="20" minLvl="20"/>
+        <item itemId="5558" itemCount="1" itemChance="50" minLvl="20"/>
+        <item itemId="5559" itemCount="1" itemChance="5" minLvl="20"/>
+    </event>
+    <event name="HeavyMedal">
+        <item itemId="6392" itemCount="1" itemChance="100" minLvl="20"/>
+        <item itemId="6393" itemCount="1" itemChance="50" minLvl="20"/>
+    </event>
+    <event name="L2Day">
+        <item itemId="3875" itemCount="1" itemChance="70" minLvl="20"/>
+        <item itemId="3876" itemCount="1" itemChance="70" minLvl="20"/>
+        <item itemId="3877" itemCount="1" itemChance="70" minLvl="20"/>
+        <item itemId="3878" itemCount="1" itemChance="70" minLvl="20"/>
+        <item itemId="3879" itemCount="1" itemChance="70" minLvl="20"/>
+        <item itemId="3881" itemCount="1" itemChance="70" minLvl="20"/>
+        <item itemId="3882" itemCount="1" itemChance="70" minLvl="20"/>
+        <item itemId="3883" itemCount="1" itemChance="70" minLvl="20"/>
+        <item itemId="3884" itemCount="1" itemChance="70" minLvl="20"/>
+        <item itemId="3886" itemCount="1" itemChance="70" minLvl="20"/>
+        <item itemId="3887" itemCount="1" itemChance="70" minLvl="20"/>
+        <item itemId="3888" itemCount="1" itemChance="70" minLvl="20"/>
+    </event>
+    <event name="Squash">
+        <item itemId="6391" itemCount="1" itemChance="100" minLvl="20"/>
+    </event>
+</list>
